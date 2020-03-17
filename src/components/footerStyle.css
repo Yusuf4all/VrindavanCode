@@ -1,0 +1,48 @@
+footer{
+    background-color: #4444;
+    padding: 50px 50px 20px 50px;
+}
+footer .manage{
+    display :flex;
+    justify-content:space-between; 
+}
+footer .findUs .logoOfCompany{ 
+    width: 150px;
+    height: 100px;
+}
+footer .manage .address h5{
+    font-size: 34px;
+    margin: 0px;
+    color: #E8B043;
+}
+footer .manage .address h6{
+    margin:0px;
+    padding:0px;
+    color: #E8B043;
+}
+footer .manage .address .addressCato{
+    margin-top: 20px;
+}
+footer .manage .address .socialMedia i{
+    font-size: 44px;
+    margin-top: 20px;
+    color: #E8B043;
+    margin-right: 30px;
+}
+
+footer .manage .findUs h5{
+    font-size: 34px;
+    margin: 0px;
+    color: #E8B043;
+}
+
+footer .footer_Nav{
+    text-align: center;
+}
+footer .footer_Nav ul{
+    margin-bottom: 10px;
+}
+footer .footer_Nav ul li{
+    border-right: 2px solid black;
+    padding:0px 25px;
+}

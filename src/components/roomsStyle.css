@@ -1,0 +1,24 @@
+#room h1{
+    color: #E8B043;
+    text-align: center;
+    font-size: 44px;
+    margin: 30px 0px;
+}
+#room .aboutRooms{
+    display: flex;
+}
+#room .descOfRoom{
+    text-align: center;
+    padding: 80px 100px;
+}
+#room .aboutRooms .imgOfRoom{
+    height: 400px;
+    width: 4250px;
+}
+#room .row{
+    background-color: #333333;
+}
+#room .spa,.restaurant,.pool,.activities{
+    padding: 20px 0px;
+    height: 200px;
+}

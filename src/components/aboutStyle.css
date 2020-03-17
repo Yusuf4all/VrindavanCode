@@ -1,0 +1,22 @@
+#about{
+    border-bottom: 2px solid black;
+}
+#about .aboutVrindavan{
+    display: flex;
+}
+#about h2{
+    margin-top: 30px;
+    font-size: 44px;
+    font-weight: normal;
+    color: #E8B043;
+}
+#about .desc h3{
+    font-size: 34px;
+    margin: 20px 0px;
+}
+#about .desc p{
+    padding: 0px 50px;
+}
+#about .imgOfAbout img{
+    padding: 20px 0px;
+}
